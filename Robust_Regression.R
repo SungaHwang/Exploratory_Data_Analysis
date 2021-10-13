@@ -1,4 +1,3 @@
-# R codes used in the video
 data("stackloss")
 attach(stackloss)
 
